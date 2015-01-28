@@ -2,7 +2,7 @@ require 'formula'
 
 class MacvimSplitBrowser < Formula
   homepage 'https://github.com/joelcogen/homebrew-macvimsplitbrowser'
-  url 'https://github.com/joelcogen/macvim/tarball/44c9b9dfc0e0ec35a19e0f8c352912200a1599bc'
+  url 'https://github.com/joelcogen/macvim/archive/master.tar.gz'
   version '20131022'
   sha1 'a00538381f24ead04b6bf0d79fa12fe6e3cc8d16'
 
