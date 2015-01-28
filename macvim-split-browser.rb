@@ -4,7 +4,7 @@ class MacvimSplitBrowser < Formula
   homepage 'https://github.com/joelcogen/homebrew-macvimsplitbrowser'
   url 'https://github.com/joelcogen/macvim/archive/master.tar.gz'
   version '20131022'
-  sha1 'a00538381f24ead04b6bf0d79fa12fe6e3cc8d16'
+  sha1 '29d0c6509daf35da90bfa7f3f33a1c2aa264bdcb'
 
   head 'https://github.com/joelcogen/macvim.git', :branch => 'split-browser'
 
